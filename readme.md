@@ -1,4 +1,4 @@
-# AZ-203: Developing Solutions for Microsoft Azure
+# AZ-203: Developing Solutions for Microsoft Azure  
 
 [![Build Status](https://microsoftdigitallearning.visualstudio.com/Courseware/_apis/build/status/MicrosoftLearning.AZ-203-DevelopingSolutionsforMicrosoftAzure?branchName=master)](https://microsoftdigitallearning.visualstudio.com/Courseware/_build/latest?definitionId=19&branchName=master)
 
